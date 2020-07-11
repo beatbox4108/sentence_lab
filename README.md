@@ -3,7 +3,7 @@
 <h2>Technorogy used</h2>
 <p><a href="http://www.python.org/">python3[www.python.org]</a></p>
 <br>
-<h2>Hou to use</h2>
+<h2>How to use</h2>
 <p>
 1.Install python. <a href="http://www.python.org/download/">download python</a><br>
 </p>
@@ -11,4 +11,7 @@
 2.Run proglam or use class.
 </p>
 <h2>license</h2>
-*<a>mit</a>
+mit
+<br>
+<p>Copyright beatbox4108 2020 AllRightsReserved.
+Lisenced MIT licence.</p>
