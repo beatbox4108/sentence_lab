@@ -11,7 +11,7 @@
 2.Run proglam or use class.
 </p>
 <h2>license</h2>
-mit
+<p>licenced mit licence.<p>
 <br>
 <p>Copyright beatbox4108 2020 AllRightsReserved.
 Lisenced MIT licence.</p>
