@@ -14,4 +14,4 @@
 <p>Licenced by mit licence.<p>
 <br>
 <p>Copyright beatbox4108 2020 AllRightsReserved.
-Lisenced by MIT licence.</p>
+Lisenced by CreativeCommonslicence.</p>
