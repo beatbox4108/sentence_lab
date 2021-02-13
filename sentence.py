@@ -8,7 +8,6 @@ class sentence:
         self.__words=words.words
     def run(self):
         pattern=random.randint(1,7)
-        pattern=7
         if pattern==1:
             #現在形(S+V)
             self.__subject=random.choice(self.__words["subject"])
